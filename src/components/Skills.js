@@ -55,8 +55,8 @@ export default function Skills() {
                     <div className="text-center mb-20">
                         <img src={js} height='100px' width='100px'/> 
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        <img src={jsx_logo} height='100px' width='100px'/>
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        {/* <img src={jsx_logo} height='100px' width='100px'/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; */}
                         <img src={node} height='100px' width='100px'/>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <img src={react} height='100px' width='100px'/>
