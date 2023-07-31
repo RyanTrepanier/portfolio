@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
 
 export default function Contact() {
 
@@ -36,6 +35,14 @@ export default function Contact() {
                             <p className="leading-relaxed">
                                 <a href="https://www.linkedin.com/in/ryan-trep/">
                                 https://www.linkedin.com/in/ryan-trep/
+                                </a>
+                            </p>
+                            <h2 className="title-font font-semibold text-black tracking-widest text-xs mt-4">
+                                GitHub
+                            </h2>
+                            <p className="leading-relaxed">
+                                <a href="https://github.com/RyanTrepanier">
+                                https://github.com/RyanTrepanier
                                 </a>
                             </p>
                         </div>

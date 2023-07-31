@@ -1,7 +1,3 @@
-import lumen from './lumen.png';
-import calc from './calc.png';
-import project from './project.png';
-
 export const projects = [
     {
         title: "Lumen",
@@ -24,21 +20,4 @@ export const projects = [
         image: "./project.png",
         link: "https://github.com/RyanTrepanier/mycode/tree/main/final_project"
     }
-]
-
-export const skills = [
-    "JavaScript",
-    "JSX",
-    "Node.JS",
-    "React",
-    "Java",
-    "Swing",
-    "Python",
-    "Cryptographic Libraries",
-    "Multi-Party Computation (MPC)",
-    "Machine Learning",
-    "C",
-    "C++",
-    "Linux",
-    "Networking",
 ]

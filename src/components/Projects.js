@@ -3,13 +3,9 @@ import lumen from '../lumen.png';
 import calc from '../calc.png';
 import project from '../project.png';
 import gist from '../gist.css';
-import ReactEmbedGist from 'react-embed-gist';
 import Gist from 'super-react-gist';
-import { width } from "@mui/system";
-import {ScrollBox, ScrollAxes, FastTrack} from 'react-scroll-box';
 
 export default function Projects() {
-var ScrollBox = require('react-scroll-box').ScrollBox;
 
  return (
     <section id="projects" className="text-gray-400 body-font">

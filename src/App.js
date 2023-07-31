@@ -1,12 +1,9 @@
 import './App.css';
-import Layout from './components/Layout';
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Projects from './components/Projects';
 import Skills from './components/Skills';
-import { Routes, Route } from 'react-router-dom';
-import { BrowserRouter, Link } from 'react-router-dom';
-import { Box, Tabs, Tab, Typography } from '@mui/material';
+import { Box, Tabs, Tab} from '@mui/material';
 import React, { useState } from 'react';
 
 function App() {
