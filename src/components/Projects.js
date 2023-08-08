@@ -18,7 +18,7 @@ export default function Projects() {
                 <h1 className="sm:text-4xl text:3xl font-medium title-font mb-4 text-black">
                     Apps I've Built
                 </h1>
-                <p className="lg:w-2/3 mx-auto leading-relazed text-base">
+                <p className="lg:w-full mx-auto leading-relazed text-base">
                 First up on this list is Lumen. This is a web-based video game I made with 3 other people. It was built with JavaScript, using agile methodologies to complete weekly deliverables. Some of my specific roles were to create 'enemy characters', such as the witch. Additionally, I was responsible for the animation of the witch's movements and attacks, as well as the behavior. I also found and used the several audio effects that are heard throughout the game. The functionality for the volume bar and mute button were also implemented by me. 
                 </p>
                 <img src={lumen} height='301px' alt='Lumen' align='left'/>
