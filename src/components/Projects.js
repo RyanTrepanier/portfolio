@@ -23,8 +23,8 @@ export default function Projects() {
                 <p className="lg:w-full mx-auto leading-relazed text-base">
                 First up on this list is Lumen. This is a web-based video game I made with 3 other people. It was built with JavaScript, using agile methodologies to complete weekly deliverables. Some of my specific roles were to create 'enemy characters', such as the witch. Additionally, I was responsible for the animation of the witch's movements and attacks, as well as the behavior. I also found and used the several audio effects that are heard throughout the game. The functionality for the volume bar and mute button were also implemented by me. 
                 </p>
-                <AspectRatio ratio="3/4" style={{ maxWidth: '2000px' }}>
-                    <img src={lumen} height='301px' width='300px' alt='Lumen' align='left'/>
+                <AspectRatio ratio="3/4" style={{ maxWidth: '2000px'}}>
+                    <img src={lumen} height='undefined' width='301px' alt='Lumen' align='left'/>
                     {/* <Img src={lumen} /> */}
                     <Gist classname={gist} url="https://gist.github.com/RyanTrepanier/cc37ea2db59e281602fc7834957540f6"/> 
                 </AspectRatio>
