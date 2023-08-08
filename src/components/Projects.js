@@ -10,8 +10,11 @@ export default function Projects() {
 
  return (
     <section id="projects" className="text-gray-400 body-font">
-        <div className="container px-5 py-10 mx-auto text-center lg:px-40">
-            <div className="flex flex-col w-full mb-20">
+        <div className="centered">
+        {/* <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center"> */}
+        {/* <div className="container px-5 py-10 mx-auto text-center lg:px-40"> */}
+            <div className="flex flex-col w-screen mb-20">
+                
                 <h1 className="sm:text-4xl text:3xl font-medium title-font mb-4 text-black">
                     Apps I've Built
                 </h1>
