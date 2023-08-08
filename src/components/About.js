@@ -12,7 +12,7 @@ export default function About() {
                 Welcome to my Portfolio!
                 
             </h1>
-            <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
+            <div className="container mx-auto flex md:flex-row flex-col ">
                 
                 <div className="flex flex-col w-full mb-20">
                     <p className="mb-8 leading-relaxed">

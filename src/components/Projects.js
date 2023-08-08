@@ -9,7 +9,6 @@ import {Img} from 'react-image';
 export default function Projects() {
 
 
-
  return (
     <section id="projects" className="text-gray-400 body-font">
         <div className="centered mx-auto lg:px-40">
